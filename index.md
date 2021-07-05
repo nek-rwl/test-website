@@ -15,4 +15,7 @@ Things meerkats dislike:
     * sneaky cats
 
 This is what a meerkat looks like: 
+
 ![meerkat chilling in the sun](https://d.newsweek.com/en/full/1791922/meerkat-desert.jpg?w=1600&h=1200&q=88&f=ad9b61ff91226f1bbd10de6024fa22f2)
+
+<!-- this is a comment that won't print -->
